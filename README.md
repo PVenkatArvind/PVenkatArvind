@@ -1,5 +1,5 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/79320301/192025104-ffedd596-049c-4be8-bcd6-6a963b86bec6.png)](https://pvenkatarvind.io)
+[![logo](https://user-images.githubusercontent.com/79320301/192025104-ffedd596-049c-4be8-bcd6-6a963b86bec6.png)](https://pvenkatarvind.io)
 
 <h1 align="center">Hi 👋, I'm P VenkatArvind</h1>
 <h3 align="center">Computer Science student from India</h3>
