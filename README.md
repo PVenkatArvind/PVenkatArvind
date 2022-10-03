@@ -1,5 +1,5 @@
-
-
+<html>
+<body>
 <marquee direction="right">Hi 👋, I'm P VenkatArvind</marquee>
 <h3 align="center">Computer Science student from India</h3>
 
@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvenkatarvind&show_icons=true&locale=en&layout=compact" alt="pvenkatarvind" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pvenkatarvind&show_icons=true&locale=en" alt="pvenkatarvind" /></p>
+</body>
+</html>
