@@ -1,7 +1,6 @@
 <h1 align = "center ">Hi 👋, I'm P VenkatArvind</h1>
 <h3 align="center">Computer Science student from India</h3>
 
-
 <img align="center" alt="Coding" width="auto" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611735524268df98ac9ec693c89d784b0b78d0a7a37&rid=giphy.gif&ct=g">
 
 
