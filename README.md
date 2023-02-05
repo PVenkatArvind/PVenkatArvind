@@ -8,11 +8,7 @@
 <img align="center" alt="Coding" width="auto" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611735524268df98ac9ec693c89d784b0b78d0a7a37&rid=giphy.gif&ct=g">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pvenkatarvind&label=Profile%20views&color=0e75b6&style=flat" alt="pvenkatarvind" /> </p>
 
-<h3 align="left"></h3>
-<p align="left">
-</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/p-venkat-arvind-403b79212/) 
@@ -27,8 +23,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=PVenkatArvind&icon=9&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
