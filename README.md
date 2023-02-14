@@ -1,7 +1,7 @@
 <!--# 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 -->
-<h1 align = "center ">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm P VenkatArvind</h1>
+<h1 align = "center ">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm P VenkatArvind</h1>
 <h3 align="center">Computer Science student from India</h3>
 
 <img align="center" alt="Coding" width="auto" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611735524268df98ac9ec693c89d784b0b78d0a7a37&rid=giphy.gif&ct=g">
