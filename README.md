@@ -52,8 +52,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-%2300979d.svg?style=for-the-badge&logo=arduino&logoColor=white)
-
-
+![Logstash](https://img.shields.io/badge/logstash-%23005571.svg?style=for-the-badge&logo=logstash&logoColor=white)
 
 
 # 📊 GitHub Stats:
